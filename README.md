@@ -14,8 +14,8 @@ To implement Opening and Closing using Python and OpenCV.
  
 ## Program:
 ```
-NAME : ADHITHYARAM D
-REG : 212222230008
+NAME : BALAMURUGAN B
+REG : 212222230016
 ```
 ``` Python
 # Import the necessary packages
@@ -46,28 +46,16 @@ plt.axis("off")
 ## Output:
 
 ### Display the input Image
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
+![in10](https://github.com/BALA291/OPENING--AND-CLOSING/assets/120717501/0c4bc8d3-c57d-44c0-8c84-018b98d04a4e)
 
 ### Display the result of Opening
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
+![in10i](https://github.com/BALA291/OPENING--AND-CLOSING/assets/120717501/80535630-02ea-45f2-abf9-d73d9586db88)
 
 ### Display the result of Closing
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
+![in10ii](https://github.com/BALA291/OPENING--AND-CLOSING/assets/120717501/2be0baca-6a61-4615-b0bf-441f44cad039)
 
 ## Result
 Thus the Opening and Closing operation is used in the image using python and OpenCV.
